@@ -1,2 +1,2 @@
-# Python
-Esc.Prog
+# MiprimerRepositorioEnGithub
+Esc.Programacion1
